@@ -17,7 +17,7 @@ Interactive filters allow users to explore data across different **years**, **qu
 
 [**Access the Dashboard here**](https://app.powerbi.com/view?r=eyJrIjoiNTYzMzhiNDEtODQxYS00Mzc1LWE2OTItMDAyMTQ5N2Y2MWVmIiwidCI6IjBkODkwMmEzLTE1OGYtNGM3MC04MTI4LTFlM2JiNGFiMzk3ZCIsImMiOjh9)
 
-[Dashboard Image](Sales_Report_Dashboard.jpg)
+![Dashboard Image](https://github.com/BassamElshoraa/Your-Repository-Name/raw/main/Sales_Report_Dashboard.jpg)
 ---
 
 ## Tools & Technologies Used
